@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/NikolayStepanov/Wallpaper-Calculator.svg?branch=master)](https://travis-ci.org/NikolayStepanov/Wallpaper-Calculator)
+[![codecov](https://codecov.io/gh/NikolayStepanov/Wallpaper-Calculator/branch/master/graph/badge.svg)](https://codecov.io/gh/NikolayStepanov/Wallpaper-Calculator)
